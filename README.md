@@ -1,110 +1,76 @@
 <h1 align="center">Resumey.Pro Downloader</h1>
-
+<div align="center">
+  <a href="https://david-dm.org/abhijithvijayan/Resumey.Pro-Downloader">
+    <img src="https://img.shields.io/david/abhijithvijayan/Resumey.Pro-Downloader.svg?colorB=orange" alt="DEPENDENCIES" />
+  </a>
+  <a href="https://github.com/abhijithvijayan/Resumey.Pro-Downloader/blob/main/license">
+    <img src="https://img.shields.io/github/license/abhijithvijayan/Resumey.Pro-Downloader.svg" alt="LICENSE" />
+  </a>
+  <a href="https://twitter.com/intent/tweet?text=Check%20out%20Resumey.Pro-Downloader%21%20by%20%40_abhijithv%0A%0Ahttps%3A%2F%2Fgithub.com%2Fabhijithvijayan%2FResumey.Pro-Downloader%0A%0A%23chrome%20%23resume%20%23downloader%20%23firefox%20%23javascript%20">
+     <img src="https://img.shields.io/twitter/url/http/shields.io.svg?style=social" alt="TWEET" />
+  </a>
+</div>
+<h3 align="center">🙋‍♂️ Made by <a href="https://twitter.com/_abhijithv">@abhijithvijayan</a></h3>
+<p align="center">
+  Donate:
+  <a href="https://www.paypal.me/iamabhijithvijayan" target='_blank'><i><b>PayPal</b></i></a>,
+  <a href="https://www.patreon.com/abhijithvijayan" target='_blank'><i><b>Patreon</b></i></a>
+</p>
+<p align="center">
+  <a href='https://www.buymeacoffee.com/abhijithvijayan' target='_blank'>
+    <img height='36' style='border:0px;height:36px;' src='https://bmc-cdn.nyc3.digitaloceanspaces.com/BMC-button-images/custom_images/orange_img.png' border='0' alt='Buy Me a Coffee' />
+  </a>
+</p>
 <hr />
 
-## Browser Support
+❤️ it? ⭐️ it on [GitHub](https://github.com/abhijithvijayan/Resumey.Pro-Downloader/stargazers) or [Tweet](https://twitter.com/intent/tweet?text=Check%20out%20Resumey.Pro-Downloader%21%20by%20%40_abhijithv%0A%0Ahttps%3A%2F%2Fgithub.com%2Fabhijithvijayan%2FResumey.Pro-Downloader%0A%0A%23chrome%20%23resume%20%23downloader%20%23firefox%20%23javascript%20) about it.
 
-| [![Chrome](https://raw.github.com/alrra/browser-logos/master/src/chrome/chrome_48x48.png)](/) | [![Firefox](https://raw.github.com/alrra/browser-logos/master/src/firefox/firefox_48x48.png)](/) | [![Opera](https://raw.github.com/alrra/browser-logos/master/src/opera/opera_48x48.png)](/) | [![Edge](https://raw.github.com/alrra/browser-logos/master/src/edge/edge_48x48.png)](/) | [![Yandex](https://raw.github.com/alrra/browser-logos/master/src/yandex/yandex_48x48.png)](/) | [![Brave](https://raw.github.com/alrra/browser-logos/master/src/brave/brave_48x48.png)](/) | [![vivaldi](https://raw.github.com/alrra/browser-logos/master/src/vivaldi/vivaldi_48x48.png)](/) |
-| --------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------ | --------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------ |
-| 49 & later ✔                                                                                  | 52 & later ✔                                                                                     | 36 & later ✔                                                                               | 79 & later ✔                                                                            | Latest ✔                                                                                      | Latest ✔                                                                                   | Latest ✔                                                                                         |
+Attaches a download button to https://resumey.pro that can be used to save the generated resume PDF. All the links in the resume are persisted in the PDF.
 
-and many more...
+![demo](.github/demo1.png)
+
+![demo](.github/demo2.png)
+
+## Table of Contents
+
+- [Installation](#installation)
+- [🚀 Quick Start](#🚀-quick-start)
+- [Issues](#issues)
+  - [🐛 Bugs](#-bugs)
+- [LICENSE](#license)
+
+## Installation
+
+### Download for browser(s)
+
+- Browsers: [Download from releases](https://github.com/abhijithvijayan/Resumey.Pro-Downloader/releases)
 
 ## 🚀 Quick Start
 
-Ensure you have
+- `yarn install` to install dependencies.
+- `yarn run dev:chrome` to start the development server for chrome extension.
+- `yarn run dev:firefox` to start the development server for firefox addon.
+- `yarn run dev:opera` to start the development server for opera extension.
+- `yarn run build:chrome` to build chrome extension.
+- `yarn run build:firefox` to build firefox addon.
+- `yarn run build:opera` to build opera extension.
+- `yarn run build` builds and packs extensions all at once to extension/ directory.
 
-- [Node.js](https://nodejs.org) 12.14.1 or later installed
-- [React-Dev-Tools Standalone](https://github.com/facebook/react/tree/main/packages/react-devtools#installation) installed globally
+## Issues
 
-Then run the following:
+_Looking to contribute? Look for the [Good First Issue](https://github.com/abhijithvijayan/Resumey.Pro-Downloader/issues?q=is%3Aissue+is%3Aopen+sort%3Aupdated-desc+label%3A%22good+first+issue%22)
+label._
 
-- `npm install` to install dependencies.
-- `npm run devtools` to launch React DevTools
-- `npm run dev:chrome` to start the development server for chrome extension
-- `npm run dev:firefox` to start the development server for firefox addon
-- `npm run dev:opera` to start the development server for opera extension
-- `npm run build:chrome` to build chrome extension
-- `npm run build:firefox` to build firefox addon
-- `npm run build:opera` to build opera extension
-- `npm run build` builds and packs extensions all at once to extension/ directory
+### 🐛 Bugs
 
-### Development
+Please file an issue [here](https://github.com/abhijithvijayan/Resumey.Pro-Downloader/issues/new) for bugs, missing documentation, or unexpected behavior.
 
-- `npm install` to install dependencies.
-- To watch file changes in development
+[**See Bugs**](https://github.com/abhijithvijayan/Resumey.Pro-Downloader/issues?q=is%3Aissue+is%3Aopen+sort%3Aupdated-desc+label%3A%22type%3A+bug%22)
 
-  - Chrome
-    - `npm run dev:chrome`
-  - Firefox
-    - `npm run dev:firefox`
-  - Opera
-    - `npm run dev:opera`
+### Linting Config
 
-- **Load extension in browser**
+- Shared Eslint & Prettier Configuration - [`@abhijithvijayan/eslint-config`](https://www.npmjs.com/package/@abhijithvijayan/eslint-config)
 
-- ### Chrome
+## License
 
-  - Go to the browser address bar and type `chrome://extensions`
-  - Check the `Developer Mode` button to enable it.
-  - Click on the `Load Unpacked Extension…` button.
-  - Select your extension’s extracted directory.
-
-- ### Firefox
-
-  - Load the Add-on via `about:debugging` as temporary Add-on.
-  - Choose the `manifest.json` file in the extracted directory
-
-- ### Opera
-
-  - Load the extension via `opera:extensions`
-  - Check the `Developer Mode` and load as unpacked from extension’s extracted directory.
-
-### Production
-
-- `npm run build` builds the extension for all the browsers to `extension/BROWSER` directory respectively.
-
-Note: By default the `manifest.json` is set with version `0.0.0`. The webpack loader will update the version in the build with that of the `package.json` version. In order to release a new version, update version in `package.json` and run script.
-
-If you don't want to use `package.json` version, you can disable the option [here](https://github.com/abhijithvijayan/Resumey.Pro Downloader/blob/e10158c4a49948dea9fdca06592876d9ca04e028/webpack.config.js#L79).
-
-### Generating browser specific manifest.json
-
-Update `source/manifest.json` file with browser vendor prefixed manifest keys
-
-```js
-{
-  "__chrome__name": "SuperChrome",
-  "__firefox__name": "SuperFox",
-  "__edge__name": "SuperEdge",
-  "__opera__name": "SuperOpera"
-}
-```
-
-if the vendor is `chrome` this compiles to:
-
-```js
-{
-  "name": "SuperChrome",
-}
-```
-
----
-
-Add keys to multiple vendors by separating them with | in the prefix
-
-```
-{
-  __chrome|opera__name: "SuperBlink"
-}
-```
-
-if the vendor is `chrome` or `opera`, this compiles to:
-
-```
-{
-  "name": "SuperBlink"
-}
-```
-
-See the original [README](https://github.com/abhijithvijayan/wext-manifest-loader) of `wext-manifest-loader` package for more details
+MIT © [Abhijith Vijayan](https://abhijithvijayan.in)
