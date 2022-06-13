@@ -6225,10 +6225,10 @@ webpack@4.46.0:
     watchpack "^1.7.4"
     webpack-sources "^1.4.1"
 
-wext-manifest-loader@2.3.0:
-  version "2.3.0"
-  resolved "https://registry.yarnpkg.com/wext-manifest-loader/-/wext-manifest-loader-2.3.0.tgz#16b5f7603cc3aa6a6d76efe4bfcbf87ff7bd6ecb"
-  integrity sha512-l6RIJmpiU8ibUKwueNqPys4iV1Jys2VLFIID1poWRuSuXzeDKjPB0TAAX0zMlckkoH6Ft0WKcvPNAEoR9KcUMQ==
+wext-manifest-loader@2.4.0:
+  version "2.4.0"
+  resolved "https://registry.yarnpkg.com/wext-manifest-loader/-/wext-manifest-loader-2.4.0.tgz#b0f674cf8c04d953ac091ca95237a46edd4b2ca8"
+  integrity sha512-pvC0za/uB7aVD0t6uYFIF6mD7cYDwNZrT+maW/rbdUMnL3Npel98/n/bpWZtGZfsOTa1y2k6nCH5xCvwUOieCA==
   dependencies:
     loader-utils "^2.0.0"
     schema-utils "^2.7.1"
