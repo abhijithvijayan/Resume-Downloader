@@ -1,9 +1,9 @@
 {
-  "name": "resumey.pro-downloader",
+  "name": "resume-downloader",
   "version": "1.0.0",
-  "description": "Resumey.Pro Downloader",
+  "description": "Résumé Downloader",
   "private": true,
-  "repository": "https://github.com/abhijithvijayan/resumey.pro-downloader.git",
+  "repository": "https://github.com/abhijithvijayan/Resume-Downloader.git",
   "author": {
     "name": "abhijithvijayan",
     "email": "email@abhijithvijayan.in",

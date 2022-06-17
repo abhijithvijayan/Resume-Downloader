@@ -1,7 +1,7 @@
 {
   "__chrome|opera|edge__manifest_version": 3,
   "__firefox__manifest_version": 2,
-  "name": "Resumey.Pro Downloader",
+  "name": "Résumé Downloader",
   "version": "0.0.0",
 
   "icons": {
@@ -10,9 +10,9 @@
     "48": "assets/icons/favicon-48.png",
     "128": "assets/icons/favicon-128.png"
   },
-  "description": "Resumey.Pro Downloader",
-  "homepage_url": "https://github.com/abhijithvijayan/resumey.pro-downloader",
-  "short_name": "Resumey.Pro Downloader",
+  "description": "Résumé Downloader",
+  "homepage_url": "https://github.com/abhijithvijayan/Resume-Downloader",
+  "short_name": "Résumé Downloader",
 
   "__chrome|opera|edge__host_permissions": [
     "*://*.resumey.pro/*"
