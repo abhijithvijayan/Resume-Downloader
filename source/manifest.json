@@ -5,10 +5,10 @@
   "version": "0.0.0",
 
   "icons": {
-    "16": "assets/icons/favicon-16.png",
-    "32": "assets/icons/favicon-32.png",
-    "48": "assets/icons/favicon-48.png",
-    "128": "assets/icons/favicon-128.png"
+    "16": "assets/icons/favicon-16x16.png",
+    "32": "assets/icons/favicon-32x32.png",
+    "48": "assets/icons/favicon-48x48.png",
+    "128": "assets/icons/favicon-128x128.png"
   },
   "description": "Résumé Downloader",
   "homepage_url": "https://github.com/abhijithvijayan/Resume-Downloader",
