@@ -27,6 +27,15 @@
 
 Attaches a download button to https://resumey.pro that can be used to save the generated resume PDF. All the links in the resume are persisted in the PDF.
 
+## Browser Support
+
+| [![Chrome](https://raw.github.com/alrra/browser-logos/master/src/chrome/chrome_48x48.png)](https://chrome.google.com/webstore/detail/r%C3%A9sum%C3%A9-downloader/gjlihcibieeinniemofkmfnhjjljemlm) | [![Firefox](https://raw.github.com/alrra/browser-logos/master/src/firefox/firefox_48x48.png)](https://addons.mozilla.org/firefox/addon/resume-downloader/) | [![Opera](https://raw.github.com/alrra/browser-logos/master/src/opera/opera_48x48.png)](CONTRIBUTING.md#for-opera-users) | [![Edge](https://raw.github.com/alrra/browser-logos/master/src/edge/edge_48x48.png)](https://chrome.google.com/webstore/detail/r%C3%A9sum%C3%A9-downloader/gjlihcibieeinniemofkmfnhjjljemlm) | [![Yandex](https://raw.github.com/alrra/browser-logos/master/src/yandex/yandex_48x48.png)](https://chrome.google.com/webstore/detail/r%C3%A9sum%C3%A9-downloader/gjlihcibieeinniemofkmfnhjjljemlm) | [![Brave](https://raw.github.com/alrra/browser-logos/master/src/brave/brave_48x48.png)](https://chrome.google.com/webstore/detail/r%C3%A9sum%C3%A9-downloader/gjlihcibieeinniemofkmfnhjjljemlm) | [![vivaldi](https://raw.github.com/alrra/browser-logos/master/src/vivaldi/vivaldi_48x48.png)](https://chrome.google.com/webstore/detail/r%C3%A9sum%C3%A9-downloader/gjlihcibieeinniemofkmfnhjjljemlm) |
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------| --------------------------------------------------------------------------------------------------------------------------------------------- |--------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| 88 & later ✔                                                                                                                                                              | 52 & later ✔ | 74 & later ✔                                                                                                             | 88 & later ✔                                                                                                                                                        | Latest ✔ | Latest ✔ | Latest ✔
+
+## How to use
+
+
 ![demo](.github/demo1.png)
 
 ![demo](.github/demo2.png)
@@ -43,7 +52,16 @@ Attaches a download button to https://resumey.pro that can be used to save the g
 
 ### Download for browser(s)
 
-- Browsers: [Download from releases](https://github.com/abhijithvijayan/Resume-Downloader/releases)
+  - Chrome: [Résumé Downloader :: Chrome Web Store](https://chrome.google.com/webstore/detail/r%C3%A9sum%C3%A9-downloader/gjlihcibieeinniemofkmfnhjjljemlm)
+  - Firefox: [Résumé Downloader :: Add-ons for Firefox](https://addons.mozilla.org/firefox/addon/resume-downloader/)
+  - Opera [Résumé Downloader :: Opera addons](CONTRIBUTING.md#for-opera-users)
+  - Edge: [Résumé Downloader :: Chrome Web Store](https://chrome.google.com/webstore/detail/r%C3%A9sum%C3%A9-downloader/gjlihcibieeinniemofkmfnhjjljemlm)
+
+#### For Opera
+
+In order to install this extension from Chrome Web Store, another opera extension called **Install Chrome Extension** should be installed first.
+
+- [Opera addon :: Install Chrome Extension](https://addons.opera.com/en/extensions/details/install-chrome-extensions/)
 
 ## 🚀 Quick Start
 
